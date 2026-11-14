@@ -1,76 +1,74 @@
 # fc-dm-maps
 
-Deathmatch and gun game maps Zee's Fatal Contact ([game-fatal-contact](https://github.com/zees-games/game-fatal-contact)) plays, as a repository of their own: the imported maps in `maps/` and the list of them with their authors in `maps.json`.
+Deathmatch and gun game maps for [Fatal Contact](https://github.com/zees-games/game-fatal-contact) (FC), imported from community maps. Its sibling pack is fc-surf-dm-maps.
 
-Every map here is somebody else's work, imported so it can be played again, and credited in `maps.json`, below and on screen whenever a server changes to it. If you made one of these maps and want it credited differently or taken down, open an issue and it will be done.
+Every map is somebody else's work, imported so it can be played again. Each one is credited below, in `maps.json`, and on screen when a server changes to it. If you made one of these maps and want it credited differently or taken down, open an issue and it will be done.
 
-Each map is its own signed pack, `gamemann/<map id>`, listed under this repository's one Workshop page (no map has a page of its own), released by tagging this repository (see `.github/workflows/release.yml`). `maps/` is linked at game-fatal-contact's `maps/imported_dm` (a `# bootstrap-link:` line in its `.gitignore`), beside the surf maps; `headless_dm_maps` checks them.
+## What is in it
 
-## Credits
-
-Sixteen of the maps are GameBanana uploads under the site's default licence, CC BY-NC-ND 4.0, credited here with the author and source page. They are published under the credited-community-map exception (`licence.json`), with this credit, the link and the removal offer.
-
-| Map | Author | Source |
-| --- | --- | --- |
-| `aim-forts` | NoBuxs | https://gamebanana.com/mods/116937 |
-| `blackhawkdown` | Cc_NIPPER | https://gamebanana.com/mods/116994 |
-| `crackhouse` | unknown (no readme in the archive; published with credit and a removal offer) | user-supplied archive |
-| `dm-hot-cn-v1` | seigneurdesombres | https://gamebanana.com/mods/117417 |
-| `dm-industrial-gamma` | warhawk3407 | https://gamebanana.com/mods/117427 |
-| `dm-morpheus` | mr-thermaltake | https://gamebanana.com/mods/117486 |
-| `dm-overwatch` | LikeMike213 | https://gamebanana.com/mods/117534 |
-| `dm-scarletdevilmansion` | Deity Link | https://gamebanana.com/mods/117571 |
-| `gg-canyon` | Devi8 | https://gamebanana.com/mods/134054 |
-| `gg-fy-snow` | s1nk0 | https://gamebanana.com/mods/135022 |
-| `gg-garage` | SGT_kick_ur_ass | https://gamebanana.com/mods/135049 |
-| `gg-krusty-krab` | FireWavezZ | https://gamebanana.com/mods/135508 |
-| `gg-lego-arena` | Jevan | https://gamebanana.com/mods/135558 |
-| `gg-punishment` | Karatekaefer | https://gamebanana.com/mods/136211 |
-| `gg-simpsons-x` | BasicAir | https://gamebanana.com/mods/136613 |
-| `gg-woods` | X-tr3m3r | https://gamebanana.com/mods/137426 |
-| `cp-orange-x3` | unknown (Orange_X lineage, original by WhiteWolf_X; published with credit and a removal offer) | https://wiki.teamfortress.com/wiki/Orange_X |
-| `welcometomexicov6` | zaki90 | https://gamebanana.com/mods/117984 |
-
-## cp_orange_x3
-
-`cp-orange-x3` is a control point map, imported for deathmatch, team deathmatch and capture the flag. It is a Team Fortress 2 community map (the Orange_X lineage, original by WhiteWolf_X, https://wiki.teamfortress.com/wiki/Orange_X; the author of this cp_orange_x3 variant is unknown). It is published under the credited-community-map exception with this credit, the link and a removal offer (open an issue and it will be taken down). Every Valve texture and model is replaced by a free one (ambientCG, Poly Haven, Kenney, TMC generated, all CC0); none of the original art ships. Its source BSP lives in `sources/` (git-ignored). The importer keeps what the original map says: its team spawns (teams 2 and 3) become `red` and `blue` spawns, the five control points and the resupply volumes are kept as `control_points` and `resupply` in the manifest, and `zones/cp-orange-x3.json` authors a `flag_spawns` marker at each side's last control point. Textures the pakfile does not carry fall back to the free PBR library or flat colour.
-
-## Which maps host which modes
-
-A map's manifest carries `modes` (from `zones/<id>.json`, mirrored in `maps.json`): the mode ids it can host. Without the list a map hosts the modes its spawns allow (free-for-all and gun game; a team mode needs tagged spawns), and an imported map hosts no objective mode. With it, `ArenaMaps.supports_mode` answers from the list, so a map only offers a mode it is big enough for.
-
-| Map | Modes |
+| Path | Contents |
 | --- | --- |
-| `cp-orange-x3` | `ffa`, `gungame`, `snipers`, `tdm`, `ctf` (about 100 by 130 m, two bases 70 m apart) |
-| the sixteen above | free-for-all and gun game (no team spawns, too small for flags) |
+| `maps/` | The imported maps (not stored in git, see "Getting the maps") |
+| `maps.json` | The list of maps with author and source |
+| `zones/<id>.json` | Per-map attribution, kind and the modes it can host |
+| `licence.json` | Licence record per map |
+| `content.lock.json` | Pins each map's published pack |
+| `tools/` | Pack staging and checks |
 
-The size rule for `ctf`: both bases need their own spawn block and a flag home, and the walk between the flags should take over 20 seconds at run speed, so roughly 60 m between homes. The stock `dm_` maps and the sixteen above are below that.
+Each map is its own signed pack, `gamemann/<map id>`. All of them are listed under this repository's one Workshop page. Releases are made by tagging the repository (`.github/workflows/release.yml`).
 
-## Naming them on a server
+## Getting the maps
 
-A server offers them when its `cfg/server/content/overrides.yml` names them under `game-arena` (dot-server-deploy's `cfg.example` does, so a new box has them), one line per map in `maps.json`. All sixteen are on the production CDN (the fourteen hyphenated ids at 1.0.3, `blackhawkdown` and `welcometomexicov6` at 1.0.1). Ids are hyphenated because the production site refuses an underscore in the repo segment.
+The map files are not in git. `content.lock.json` pins each map's pack, so `../dot-bootstrap/bootstrap.sh` (or `./fetch-content.sh` here) fills `maps/`. Fatal Contact reads them through its `maps/imported_dm` link.
 
-The map files are not in git. `content.lock.json` pins each map's pack (kind `store`, `into: maps/<id>`), so `../dot-bootstrap/bootstrap.sh` (or `./fetch-content.sh` here) fills `maps/` and with it game-fatal-contact's `maps/imported_dm`.
+To offer them on a server, name them in the server's `cfg/server/content/overrides.yml`, one line per map in `maps.json`. Ids use hyphens because the site refuses an underscore in the repository segment.
 
 ```yaml
 games:
-  game-arena:
+  game-arena:   # the Fatal Contact project directory
     maps:
       add:
         - gamemann/aim-forts
-        - gamemann/blackhawkdown
-        - gamemann/dm-hot-cn-v1
-        - gamemann/dm-industrial-gamma
-        - gamemann/dm-morpheus
-        - gamemann/dm-overwatch
-        - gamemann/dm-scarletdevilmansion
         - gamemann/gg-canyon
-        - gamemann/gg-fy-snow
-        - gamemann/gg-garage
-        - gamemann/gg-krusty-krab
-        - gamemann/gg-lego-arena
-        - gamemann/gg-punishment
-        - gamemann/gg-simpsons-x
-        - gamemann/gg-woods
-        - gamemann/welcometomexicov6
+        # ... one line per map in maps.json
 ```
+
+## Which maps host which modes
+
+A map's `modes` list (from `zones/<id>.json`) names the modes it can host. Without a list a map hosts free-for-all and gun game, since team modes need tagged spawns and imported maps have no objectives.
+
+| Map | Modes |
+| --- | --- |
+| `cp-orange-x3` | free-for-all, gun game, snipers, team deathmatch, capture the flag |
+| every other map | free-for-all and gun game |
+
+Capture the flag needs room: each base needs its own spawns and a flag home, and the walk between flags should take over 20 seconds at run speed (about 60 m). Only `cp-orange-x3` is large enough.
+
+`cp-orange-x3` is a Team Fortress 2 control point map. Every Valve texture and model is replaced by a free one (CC0), and none of the original art ships. Its team spawns become `red` and `blue` spawns, and `zones/cp-orange-x3.json` places a flag marker at each side's last control point.
+
+## Credits
+
+The maps are GameBanana uploads under the site's default licence, CC BY-NC-ND 4.0, except where the table says otherwise. They are published under the credited-community-map exception in `licence.json`, with this credit, the source link and the removal offer.
+
+| Map | Author | Source | Licence |
+| --- | --- | --- | --- |
+| `aim-forts` | NoBuxs | https://gamebanana.com/mods/116937 | CC BY-NC-ND 4.0 |
+| `blackhawkdown` | Cc_NIPPER | https://gamebanana.com/mods/116994 | CC BY-NC-ND 4.0 |
+| `crackhouse` | unknown | user-supplied archive, no source page | CC BY-NC-ND 4.0 |
+| `dm-hot-cn-v1` | seigneurdesombres | https://gamebanana.com/mods/117417 | CC BY-NC-ND 4.0 |
+| `dm-industrial-gamma` | warhawk3407 | https://gamebanana.com/mods/117427 | CC BY-NC-ND 4.0 |
+| `dm-morpheus` | mr-thermaltake | https://gamebanana.com/mods/117486 | CC BY-NC-ND 4.0 |
+| `dm-overwatch` | LikeMike213 | https://gamebanana.com/mods/117534 | CC BY-NC-ND 4.0 |
+| `dm-scarletdevilmansion` | Deity Link | https://gamebanana.com/mods/117571 | CC BY-NC-ND 4.0 |
+| `gg-canyon` | Devi8 | https://gamebanana.com/mods/134054 | CC BY-NC-ND 4.0 |
+| `gg-fy-snow` | s1nk0 | https://gamebanana.com/mods/135022 | CC BY-NC-ND 4.0 |
+| `gg-garage` | SGT_kick_ur_ass | https://gamebanana.com/mods/135049 | CC BY-NC-ND 4.0 |
+| `gg-krusty-krab` | FireWavezZ | https://gamebanana.com/mods/135508 | CC BY-NC-ND 4.0 |
+| `gg-lego-arena` | Jevan | https://gamebanana.com/mods/135558 | CC BY-NC-ND 4.0 |
+| `gg-punishment` | Karatekaefer | https://gamebanana.com/mods/136211 | CC BY-NC-ND 4.0 |
+| `gg-simpsons-x` | BasicAir | https://gamebanana.com/mods/136613 | CC BY-NC-ND 4.0 |
+| `gg-woods` | X-tr3m3r | https://gamebanana.com/mods/137426 | CC BY-NC-ND 4.0 |
+| `welcometomexicov6` | zaki90 | https://gamebanana.com/mods/117984 | CC BY-NC-ND 4.0 |
+| `cp-orange-x3` | unknown (Orange_X lineage, original by WhiteWolf_X) | https://wiki.teamfortress.com/wiki/Orange_X | CC BY-NC-ND 4.0 |
+
+If you made one of these maps and want it removed, open an issue at https://github.com/zees-games/fc-dm-maps/issues.
