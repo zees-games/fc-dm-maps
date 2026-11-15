@@ -280,7 +280,7 @@
    "name": "lib/dm_lighttroffer",
    "author": "TMC (modelled for dot-map)",
    "licence": "CC0-1.0",
-   "url": "https://github.com/modcommunity/dot-map/blob/main/tools/models/building_props.py",
+   "url": "https://github.com/gamespice-platform/map/blob/main/tools/models/building_props.py",
    "source": "dot-map Blender model",
    "attribution": false,
    "uses": 60

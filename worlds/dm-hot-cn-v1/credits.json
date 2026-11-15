@@ -520,7 +520,7 @@
    "name": "lib/dm_chainlinkfence",
    "author": "TMC (modelled for dot-map)",
    "licence": "CC0-1.0",
-   "url": "https://github.com/modcommunity/dot-map/blob/main/tools/models/fences.py",
+   "url": "https://github.com/gamespice-platform/map/blob/main/tools/models/fences.py",
    "source": "dot-map Blender model",
    "attribution": false,
    "uses": 9
@@ -530,7 +530,7 @@
    "name": "lib/dm_light_inset",
    "author": "TMC (modelled for dot-map)",
    "licence": "CC0-1.0",
-   "url": "https://github.com/modcommunity/dot-map/blob/main/tools/models/light_inset.py",
+   "url": "https://github.com/gamespice-platform/map/blob/main/tools/models/light_inset.py",
    "source": "dot-map Blender model",
    "attribution": false,
    "uses": 98
@@ -540,7 +540,7 @@
    "name": "lib/dm_pipecluster",
    "author": "TMC (modelled for dot-map)",
    "licence": "CC0-1.0",
-   "url": "https://github.com/modcommunity/dot-map/blob/main/tools/models/building_props.py",
+   "url": "https://github.com/gamespice-platform/map/blob/main/tools/models/building_props.py",
    "source": "dot-map Blender model",
    "attribution": false,
    "uses": 376
@@ -570,7 +570,7 @@
    "name": "lib/own_cyl_200x400x200_505860",
    "author": "TMC (generated for dot-map)",
    "licence": "CC0-1.0",
-   "url": "https://github.com/modcommunity/dot-map",
+   "url": "https://github.com/gamespice-platform/map",
    "source": "TMC generated model",
    "attribution": false,
    "uses": 4
@@ -670,7 +670,7 @@
    "name": "amb_eerie",
    "author": "TMC (dot-audio authors)",
    "licence": "CC0-1.0",
-   "url": "https://github.com/modcommunity/dot-audio",
+   "url": "https://github.com/gamespice-platform/audio",
    "source": "dot-audio stock ambience (synthesised)",
    "attribution": false,
    "uses": 1
