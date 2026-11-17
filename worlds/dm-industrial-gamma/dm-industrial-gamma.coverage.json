@@ -69,10 +69,10 @@
   ]
  },
  "models": {
-  "looked_up": 165,
+  "looked_up": 167,
   "by_tier": {
-   "category": 17,
-   "default": 143,
+   "category": 18,
+   "default": 144,
    "skybox": 5
   }
  },

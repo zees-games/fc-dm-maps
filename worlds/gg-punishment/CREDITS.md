@@ -2,7 +2,8 @@
 
 Every texture of this map is a free replacement; the original map's textures and models are not used.
 
-- pbr (pbr_kenney_prototype_orange_03): Kenney, Kenney, CC0-1.0, https://kenney.nl/assets/prototype-textures
+- pbr (pbr_brick_wall_02): polyhaven, Dimitrios Savva, CC0-1.0, https://polyhaven.com/a/brick_wall_02
+- pbr (pbr_Concrete030): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Concrete030
 - pbr (pbr_Facade006): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Facade006
 - pbr (pbr_Wallpaper001A): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Wallpaper001A
 - pbr (pbr_Rock050): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Rock050

@@ -1143,7 +1143,7 @@
    "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/harbour_rooftop.py",
    "source": "dot-map Blender model",
    "attribution": false,
-   "uses": 2
+   "uses": 6
   },
   {
    "kind": "model",
@@ -1221,6 +1221,16 @@
    "author": "Gamespice (modelled for map)",
    "licence": "CC0-1.0",
    "url": "https://github.com/gamespice-platform/map/blob/main/tools/models/power_box.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_powerlines",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/fc_final.py",
    "source": "Gamespice map Blender model",
    "attribution": false,
    "uses": 1
@@ -1604,6 +1614,16 @@
    "source": "Poly Haven",
    "attribution": false,
    "uses": 4
+  },
+  {
+   "kind": "model",
+   "name": "lib/ph_overhead_crane",
+   "author": "Timothy3D",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/overhead_crane",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 3
   },
   {
    "kind": "model",

@@ -47,9 +47,9 @@
   ]
  },
  "models": {
-  "looked_up": 78,
+  "looked_up": 79,
   "by_tier": {
-   "category": 6,
+   "category": 7,
    "default": 71,
    "skybox": 1
   }

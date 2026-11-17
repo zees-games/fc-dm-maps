@@ -7,13 +7,23 @@
  "works": [
   {
    "kind": "texture",
-   "name": "pbr_kenney_prototype_orange_03",
-   "author": "Kenney",
+   "name": "pbr_brick_wall_02",
+   "author": "Dimitrios Savva",
    "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/prototype-textures",
-   "source": "Kenney",
+   "url": "https://polyhaven.com/a/brick_wall_02",
+   "source": "polyhaven",
    "attribution": false,
-   "uses": 56
+   "uses": 28
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Concrete030",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Concrete030",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 28
   },
   {
    "kind": "texture",

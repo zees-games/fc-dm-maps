@@ -1,7 +1,7 @@
 {
  "format": "dot-bsp-coverage",
  "version": 1,
- "map": "cp_orange_x3",
+ "map": "cp-orange-x3",
  "sha256": "cfe25f37dc9bb8cbc6727d6478e43c422194ba5d8d83e16c90a84389601c9554",
  "textures": {
   "looked_up": 19,
