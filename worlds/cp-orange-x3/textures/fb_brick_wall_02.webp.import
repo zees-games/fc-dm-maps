@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d0hdp2txle2gf"
-path="res://.godot/imported/fb_Bricks067.webp-f1dbaa4696b24308610a8e0b245048f1.ctex"
+uid="uid://hscctwdhwf1jc"
+path="res://.godot/imported/fb_brick_wall_02.webp-89184c93002a76388f049ccb1da51e00.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://worlds_dm/cp-orange-x3/textures/fb_Bricks067.webp"
-dest_files=["res://.godot/imported/fb_Bricks067.webp-f1dbaa4696b24308610a8e0b245048f1.ctex"]
+source_file="res://worlds_dm/cp-orange-x3/textures/fb_brick_wall_02.webp"
+dest_files=["res://.godot/imported/fb_brick_wall_02.webp-89184c93002a76388f049ccb1da51e00.ctex"]
 
 [params]
 

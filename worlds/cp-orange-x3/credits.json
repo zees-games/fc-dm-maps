@@ -27,13 +27,13 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Concrete034",
+   "name": "pbr_Concrete030",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Concrete034",
+   "url": "https://ambientcg.com/view?id=Concrete030",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 102
+   "uses": 80
   },
   {
    "kind": "texture",
@@ -57,6 +57,16 @@
   },
   {
    "kind": "texture",
+   "name": "pbr_Concrete034",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Concrete034",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 31
+  },
+  {
+   "kind": "texture",
    "name": "pbr_Snow007C",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
@@ -77,23 +87,13 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Bricks067",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_brick_wall_02",
+   "author": "Dimitrios Savva",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Bricks067",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/brick_wall_02",
+   "source": "polyhaven",
    "attribution": false,
    "uses": 23
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_Concrete030",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Concrete030",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 9
   },
   {
    "kind": "texture",
