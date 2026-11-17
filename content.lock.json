@@ -29,9 +29,9 @@
 			"id": "gamemann/cp-orange-x3",
 			"into": "maps/cp-orange-x3",
 			"kind": "store",
-			"manifest_sha256": "6f22aff3edd00ec5a00d3230daa5d017a9607867ac6381f3ee09ca4efad1a26f",
+			"manifest_sha256": "bb38e798add58d97cd8ceb1f50ba0bbee580c6873a8dc0d8e6ee536cf853586c",
 			"optional": true,
-			"version": "1.0.8"
+			"version": "1.0.10"
 		},
 		{
 			"id": "gamemann/crackhouse",
