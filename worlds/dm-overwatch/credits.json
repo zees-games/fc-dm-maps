@@ -583,7 +583,17 @@
    "url": "https://kenney.nl/assets/survival-kit",
    "source": "Kenney Survival Kit",
    "attribution": false,
-   "uses": 6
+   "uses": 4
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_awningsmall",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/fork_station.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 11
   },
   {
    "kind": "model",
@@ -597,6 +607,46 @@
   },
   {
    "kind": "model",
+   "name": "lib/dm_concreteslab",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/debris_goods.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 19
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_handrail",
+   "author": "TMC (modelled for dot-map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/handrail.py",
+   "source": "dot-map Blender model",
+   "attribution": false,
+   "uses": 3
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_harddrive",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/props.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 8
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_keyboard",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/clutter.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 2
+  },
+  {
+   "kind": "model",
    "name": "lib/dm_lighttroffer",
    "author": "Gamespice (modelled for map)",
    "licence": "CC0-1.0",
@@ -607,31 +657,51 @@
   },
   {
    "kind": "model",
-   "name": "lib/dm_wood_crate_cube",
+   "name": "lib/dm_metalpillar",
    "author": "Gamespice (modelled for map)",
    "licence": "CC0-1.0",
-   "url": "https://github.com/gamespice-platform/map/blob/main/tools/models/wood_crate.py",
-   "source": "Gamespice map Blender remodel",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/fc_details.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 20
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_pipeclustertall",
+   "author": "TMC (modelled for dot-map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/industrial.py",
+   "source": "dot-map Blender model",
+   "attribution": false,
+   "uses": 2
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_rooftophvac",
+   "author": "TMC (modelled for dot-map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/harbour_rooftop.py",
+   "source": "dot-map Blender model",
+   "attribution": false,
+   "uses": 15
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_wallpiperun",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/detail_fixtures.py",
+   "source": "Gamespice map Blender model",
    "attribution": false,
    "uses": 1
   },
   {
    "kind": "model",
-   "name": "lib/kenney_furniture-kit_cabinetTelevision",
-   "author": "Kenney",
+   "name": "lib/dm_wood_crate_cube",
+   "author": "Gamespice (modelled for map)",
    "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/furniture-kit",
-   "source": "Kenney Furniture Kit",
-   "attribution": false,
-   "uses": 8
-  },
-  {
-   "kind": "model",
-   "name": "lib/kenney_graveyard-kit_fence-gate",
-   "author": "Kenney",
-   "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/graveyard-kit",
-   "source": "Kenney Graveyard Kit",
+   "url": "https://github.com/gamespice-platform/map/blob/main/tools/models/wood_crate.py",
+   "source": "Gamespice map Blender remodel",
    "attribution": false,
    "uses": 1
   },
@@ -647,13 +717,13 @@
   },
   {
    "kind": "model",
-   "name": "lib/kenney_nature-kit_cliff_diagonal_rock",
+   "name": "lib/kenney_nature-kit_cliff_topDiagonal_rock",
    "author": "Kenney",
    "licence": "CC0-1.0",
    "url": "https://kenney.nl/assets/nature-kit",
    "source": "Kenney Nature Kit",
    "attribution": false,
-   "uses": 45
+   "uses": 33
   },
   {
    "kind": "model",
@@ -664,6 +734,16 @@
    "source": "Kenney Pirate Kit",
    "attribution": false,
    "uses": 4
+  },
+  {
+   "kind": "model",
+   "name": "lib/own_cyl_305x254x398_b0b4b8",
+   "author": "Gamespice (generated for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map",
+   "source": "Gamespice generated model",
+   "attribution": false,
+   "uses": 1
   },
   {
    "kind": "model",
@@ -754,16 +834,6 @@
    "source": "Poly Haven",
    "attribution": false,
    "uses": 4
-  },
-  {
-   "kind": "model",
-   "name": "lib/ph_namaqualand_boulder_04",
-   "author": "Jenelle van Heerden",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/namaqualand_boulder_04",
-   "source": "Poly Haven",
-   "attribution": false,
-   "uses": 7
   },
   {
    "kind": "model",

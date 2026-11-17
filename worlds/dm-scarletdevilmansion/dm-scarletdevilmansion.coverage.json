@@ -5,14 +5,14 @@
  "sha256": "22182789a1e92fdebd20dc0a7367a06e096548eb84053daa2892f6e36c3a79f9",
  "textures": {
   "looked_up": 107,
-  "drawn": 102,
+  "drawn": 98,
   "by_tier": {
    "addon": 5,
    "default": 102
   },
   "free_by_tier": {
    "addon": 88,
-   "default": 14
+   "default": 10
   },
   "nearest_photo": [
    "brick/brickwall003",
@@ -98,9 +98,9 @@
   ]
  },
  "models": {
-  "looked_up": 81,
+  "looked_up": 83,
   "by_tier": {
-   "category": 33,
+   "category": 35,
    "default": 48
   }
  },

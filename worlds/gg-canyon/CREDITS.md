@@ -12,7 +12,8 @@ Every texture of this map is a free replacement; the original map's textures and
 
 # Model stand-ins
 
-- lib/kenney_nature-kit_cliff_topDiagonal_rock: Kenney Nature Kit, Kenney, CC0-1.0, https://kenney.nl/assets/nature-kit
+- lib/dm_rockcliff1: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/props.py
+- lib/dm_rockcluster2: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/industrial.py
 - lib/kenney_nature-kit_rock_tallJ: Kenney Nature Kit, Kenney, CC0-1.0, https://kenney.nl/assets/nature-kit
 - lib/ph_ladder_sectioned_01: Poly Haven, MP, CC0-1.0, https://polyhaven.com/a/ladder_sectioned_01
 - lib/ph_namaqualand_boulder_03: Poly Haven, Jenelle van Heerden, Dario Barresi, CC0-1.0, https://polyhaven.com/a/namaqualand_boulder_03

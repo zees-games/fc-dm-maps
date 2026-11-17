@@ -47,10 +47,11 @@
   ]
  },
  "models": {
-  "looked_up": 64,
+  "looked_up": 78,
   "by_tier": {
-   "category": 1,
-   "default": 63
+   "category": 6,
+   "default": 71,
+   "skybox": 1
   }
  },
  "sounds": {

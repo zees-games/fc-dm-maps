@@ -47,13 +47,33 @@
   },
   {
    "kind": "model",
-   "name": "lib/kenney_nature-kit_cliff_topDiagonal_rock",
+   "name": "lib/dm_driftwood2",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/clutter.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_rockcluster1",
+   "author": "TMC (modelled for dot-map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/industrial.py",
+   "source": "dot-map Blender model",
+   "attribution": false,
+   "uses": 7
+  },
+  {
+   "kind": "model",
+   "name": "lib/kenney_nature-kit_plant_bushDetailed",
    "author": "Kenney",
    "licence": "CC0-1.0",
    "url": "https://kenney.nl/assets/nature-kit",
    "source": "Kenney Nature Kit",
    "attribution": false,
-   "uses": 62
+   "uses": 61
   },
   {
    "kind": "model",
@@ -74,6 +94,26 @@
    "source": "TMC generated model",
    "attribution": false,
    "uses": 3
+  },
+  {
+   "kind": "model",
+   "name": "lib/ph_island_tree_01",
+   "author": "Rob Tuytel, Rico Cilliers",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/island_tree_01",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 29
+  },
+  {
+   "kind": "model",
+   "name": "lib/ph_jacaranda_tree",
+   "author": "Rob Tuytel, Rico Cilliers",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/jacaranda_tree",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 11
   },
   {
    "kind": "model",

@@ -187,6 +187,16 @@
   },
   {
    "kind": "model",
+   "name": "lib/kenney_factory-kit_machine",
+   "author": "Kenney",
+   "licence": "CC0-1.0",
+   "url": "https://kenney.nl/assets/factory-kit",
+   "source": "Kenney Factory Kit",
+   "attribution": false,
+   "uses": 16
+  },
+  {
+   "kind": "model",
    "name": "lib/own_box_120x100x80_707070",
    "author": "Gamespice (generated for map)",
    "licence": "CC0-1.0",

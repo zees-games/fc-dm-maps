@@ -67,11 +67,11 @@ Every texture of this map is a free replacement; the original map's textures and
 - lib/dm_pipecoupling: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/building_props.py
 - lib/dm_pipeelbow: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/building_props.py
 - lib/dm_pipestraight: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/building_props.py
+- lib/dm_rockcliff1: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/props.py
 - lib/kenney_factory-kit_conveyor-bars-fence: Kenney Factory Kit, Kenney, CC0-1.0, https://kenney.nl/assets/factory-kit
 - lib/kenney_furniture-kit_cabinetTelevision: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
 - lib/kenney_mini-arcade_arcade-machine: Kenney Mini Arcade, Kenney, CC0-1.0, https://kenney.nl/assets/mini-arcade
 - lib/kenney_mini-arcade_vending-machine: Kenney Mini Arcade, Kenney, CC0-1.0, https://kenney.nl/assets/mini-arcade
-- lib/kenney_nature-kit_cliff_topDiagonal_rock: Kenney Nature Kit, Kenney, CC0-1.0, https://kenney.nl/assets/nature-kit
 - lib/kenney_nature-kit_fence_gate: Kenney Nature Kit, Kenney, CC0-1.0, https://kenney.nl/assets/nature-kit
 - lib/own_cyl_200x400x200_505860: TMC generated model, Gamespice (generated for map), CC0-1.0, https://github.com/gamespice-platform/map
 - lib/ph_ClassicConsole_01: Poly Haven, Kirill Sannikov, CC0-1.0, https://polyhaven.com/a/ClassicConsole_01

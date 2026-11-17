@@ -62,10 +62,10 @@
   ]
  },
  "models": {
-  "looked_up": 154,
+  "looked_up": 168,
   "by_tier": {
-   "category": 5,
-   "default": 149
+   "category": 13,
+   "default": 155
   }
  },
  "sounds": {

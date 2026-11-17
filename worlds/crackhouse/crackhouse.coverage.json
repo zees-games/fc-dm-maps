@@ -24,9 +24,9 @@
   ]
  },
  "models": {
-  "looked_up": 32,
+  "looked_up": 33,
   "by_tier": {
-   "category": 1,
+   "category": 2,
    "default": 31
   }
  },

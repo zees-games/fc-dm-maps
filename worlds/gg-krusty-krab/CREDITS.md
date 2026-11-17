@@ -32,14 +32,17 @@ Every texture of this map is a free replacement; the original map's textures and
 
 # Model stand-ins
 
+- lib/dm_cablespool: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/industrial.py
+- lib/dm_cannonbarrel: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/props.py
+- lib/dm_cannoncarriage: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/props.py
+- lib/dm_jellyfish: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/fc_details.py
+- lib/dm_kitchensink: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/household.py
 - lib/dm_milcratetall: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/building_props.py
+- lib/dm_patty: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/props.py
+- lib/dm_pushbutton: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/fc_details.py
 - lib/dm_wood_crate_cube: Gamespice map Blender remodel, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/wood_crate.py
-- lib/kenney_food-kit_tomato: Kenney Food Kit, Kenney, CC0-1.0, https://kenney.nl/assets/food-kit
-- lib/kenney_furniture-kit_kitchenSink: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
 - lib/kenney_mini-market_wall-window: Kenney Mini Market, Kenney, CC0-1.0, https://kenney.nl/assets/mini-market
 - lib/kenney_pirate-kit_boat-row-large: Kenney Pirate Kit, Kenney, CC0-1.0, https://kenney.nl/assets/pirate-kit
-- lib/kenney_pirate-kit_cannon-mobile: Kenney Pirate Kit, Kenney, CC0-1.0, https://kenney.nl/assets/pirate-kit
-- lib/own_cyl_30x105x254_3a3a38: TMC generated model, Gamespice (generated for map), CC0-1.0, https://github.com/gamespice-platform/map
 - lib/ph_brass_pot_02: Poly Haven, Rico Cilliers, CC0-1.0, https://polyhaven.com/a/brass_pot_02
 - lib/ph_chinese_chandelier: Poly Haven, Kirill Sannikov, CC0-1.0, https://polyhaven.com/a/chinese_chandelier
 - lib/ph_electric_stove: Poly Haven, Kuutti Siitonen, CC0-1.0, https://polyhaven.com/a/electric_stove

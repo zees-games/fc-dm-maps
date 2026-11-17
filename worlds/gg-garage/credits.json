@@ -87,11 +87,11 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Terrazzo014",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_concrete_wall_001",
+   "author": "Dimitrios Savva, Rico Cilliers",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Terrazzo014",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/concrete_wall_001",
+   "source": "polyhaven",
    "attribution": false,
    "uses": 7
   },
@@ -137,6 +137,86 @@
   },
   {
    "kind": "model",
+   "name": "lib/dm_boxtruck",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map/blob/main/tools/models/vehicles.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 19
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_cinder_block",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map/blob/main/tools/models/cinder_block.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_milkcarton",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/clutter.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_pipecluster",
+   "author": "TMC (modelled for dot-map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/modcommunity/dot-map/blob/main/tools/models/building_props.py",
+   "source": "dot-map Blender model",
+   "attribution": false,
+   "uses": 2
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_plasticbottle",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/props.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_rubbish_pile",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map/blob/main/tools/models/rubbish_pile.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 7
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_shoplight",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/debris_goods.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 36
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_trashcluster",
+   "author": "TMC (modelled for dot-map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/clutter.py",
+   "source": "dot-map Blender model",
+   "attribution": false,
+   "uses": 4
+  },
+  {
+   "kind": "model",
    "name": "lib/dm_wood_crate_cube",
    "author": "Gamespice (modelled for map)",
    "licence": "CC0-1.0",
@@ -147,53 +227,13 @@
   },
   {
    "kind": "model",
-   "name": "lib/kenney_car-kit_garbage-truck",
-   "author": "Kenney",
-   "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/car-kit",
-   "source": "Kenney Car Kit",
-   "attribution": false,
-   "uses": 1
-  },
-  {
-   "kind": "model",
-   "name": "lib/kenney_food-kit_carton-small",
-   "author": "Kenney",
-   "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/food-kit",
-   "source": "Kenney Food Kit",
-   "attribution": false,
-   "uses": 1
-  },
-  {
-   "kind": "model",
-   "name": "lib/kenney_nature-kit_cliff_cornerLarge_rock",
-   "author": "Kenney",
-   "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/nature-kit",
-   "source": "Kenney Nature Kit",
-   "attribution": false,
-   "uses": 1
-  },
-  {
-   "kind": "model",
-   "name": "lib/kenney_retro-urban-kit_detail-dumpster-closed",
+   "name": "lib/kenney_retro-urban-kit_pallet",
    "author": "Kenney",
    "licence": "CC0-1.0",
    "url": "https://kenney.nl/assets/retro-urban-kit",
    "source": "Kenney Retro Urban Kit",
    "attribution": false,
-   "uses": 3
-  },
-  {
-   "kind": "model",
-   "name": "lib/own_box_124x82x28_e8e8e0",
-   "author": "Gamespice (generated for map)",
-   "licence": "CC0-1.0",
-   "url": "https://github.com/gamespice-platform/map",
-   "source": "TMC generated model",
-   "attribution": false,
-   "uses": 36
+   "uses": 2
   },
   {
    "kind": "model",
@@ -237,16 +277,6 @@
   },
   {
    "kind": "model",
-   "name": "lib/ph_covered_car",
-   "author": "MP",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/covered_car",
-   "source": "Poly Haven",
-   "attribution": false,
-   "uses": 18
-  },
-  {
-   "kind": "model",
    "name": "lib/ph_metal_jerrycan",
    "author": "Sean Buckley",
    "licence": "CC0-1.0",
@@ -287,13 +317,13 @@
   },
   {
    "kind": "model",
-   "name": "lib/ph_trashbag",
-   "author": "Benny Weimer",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/trashbag",
-   "source": "Poly Haven",
-   "attribution": false,
-   "uses": 10
+   "name": "lib/sf_classic_bicycle_lowpoly_game_ready_da6507",
+   "author": "by__Rx",
+   "licence": "CC-BY-4.0",
+   "url": "https://sketchfab.com/3d-models/none-da6507928c0c4a5c8776008cdb9f747e",
+   "source": "Sketchfab",
+   "attribution": true,
+   "uses": 1
   },
   {
    "kind": "model",
@@ -304,16 +334,6 @@
    "source": "Sketchfab",
    "attribution": true,
    "uses": 4
-  },
-  {
-   "kind": "model",
-   "name": "lib/sf_fallout_4_nuka_cola_bottle_17cd00",
-   "author": "Aike",
-   "licence": "CC-BY-4.0",
-   "url": "https://sketchfab.com/3d-models/none-17cd007c38824321b184c763b1eec4e2",
-   "source": "Sketchfab",
-   "attribution": true,
-   "uses": 1
   },
   {
    "kind": "model",
@@ -353,7 +373,7 @@
    "url": "https://sketchfab.com/3d-models/none-96534b56f0d9487db08f00f1f9301fa1",
    "source": "Sketchfab",
    "attribution": true,
-   "uses": 5
+   "uses": 4
   }
  ]
 }

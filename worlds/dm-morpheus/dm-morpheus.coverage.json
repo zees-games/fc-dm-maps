@@ -5,26 +5,26 @@
  "sha256": "2d6a7e906d66fb2870a2f486ce74d27a7b866c7744227f4c401132bde6788aee",
  "textures": {
   "looked_up": 33,
-  "drawn": 33,
+  "drawn": 32,
   "by_tier": {
    "addon": 26,
    "default": 7
   },
   "free_by_tier": {
    "addon": 31,
-   "default": 2
+   "default": 1
   },
   "nearest_photo": [
    "concrete/concretefloor034a",
    "concrete/concretewall011b",
    "models/props/de_nuke/nukconcretewalla",
-   "morpheus/base05",
    "morpheus/base06"
   ]
  },
  "models": {
-  "looked_up": 10,
+  "looked_up": 13,
   "by_tier": {
+   "category": 3,
    "default": 10
   }
  },

@@ -11,8 +11,7 @@
    "default": 7
   },
   "free_by_tier": {
-   "addon": 14,
-   "nearest": 1
+   "addon": 15
   },
   "nearest_photo": [
    "brick/offwlld",
@@ -24,9 +23,9 @@
   ]
  },
  "models": {
-  "looked_up": 40,
+  "looked_up": 41,
   "by_tier": {
-   "default": 40
+   "default": 41
   }
  },
  "sounds": {

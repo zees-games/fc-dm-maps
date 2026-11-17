@@ -5,14 +5,14 @@
  "sha256": "49b7d54b554fe58087618d2891ad391ce939ef263b675c914ecd43a89390facd",
  "textures": {
   "looked_up": 7,
-  "drawn": 8,
+  "drawn": 7,
   "by_tier": {
    "addon": 2,
    "default": 5
   },
   "free_by_tier": {
    "addon": 5,
-   "default": 3
+   "default": 2
   },
   "nearest_photo": [
    "fy_woods/blendmildg",
@@ -21,10 +21,10 @@
   ]
  },
  "models": {
-  "looked_up": 17,
+  "looked_up": 23,
   "by_tier": {
    "category": 8,
-   "default": 8,
+   "default": 14,
    "skybox": 1
   }
  },

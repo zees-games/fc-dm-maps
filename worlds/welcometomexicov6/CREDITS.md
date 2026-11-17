@@ -112,48 +112,62 @@ Every texture of this map is a free replacement; the original map's textures and
 
 # Model stand-ins
 
-- bookcase: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
 - crate_large: Kenney Survival Kit, Kenney, CC0-1.0, https://kenney.nl/assets/survival-kit
 - factory/door: Kenney Factory Kit, Kenney, CC0-1.0, https://kenney.nl/assets/factory-kit
 - factory/pipe: Kenney Factory Kit, Kenney, CC0-1.0, https://kenney.nl/assets/factory-kit
 - factory/window: Kenney Factory Kit, Kenney, CC0-1.0, https://kenney.nl/assets/factory-kit
 - fence: Kenney Nature Kit, Kenney, CC0-1.0, https://kenney.nl/assets/nature-kit
+- lib/dm_appliancebox: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/household.py
 - lib/dm_armouredcarrier: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/vehicles.py
+- lib/dm_awningsmall: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/fork_station.py
+- lib/dm_awningwide: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/fork_station.py
 - lib/dm_basin_unit: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/basin_unit.py
 - lib/dm_bed: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/bed.py
 - lib/dm_boxtruck: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/vehicles.py
+- lib/dm_carousel: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/playground.py
 - lib/dm_carsedan: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/vehicles.py
 - lib/dm_carsedanblack: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/vehicles.py
 - lib/dm_chainlinkfence: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/fences.py
 - lib/dm_cinder_block: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/cinder_block.py
 - lib/dm_cooling_tank: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/cooling_tank.py
+- lib/dm_dockpile: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/harbour_rooftop.py
+- lib/dm_foodstack: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/props.py
 - lib/dm_forkliftmachine: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/vehicles.py
+- lib/dm_handrail: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/handrail.py
+- lib/dm_handrailcorner: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/handrail.py
+- lib/dm_handraildoublerise: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/detail_fixtures.py
+- lib/dm_hiproof: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/fork_station.py
+- lib/dm_ibeam: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/debris_goods.py
+- lib/dm_ibeamstack: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/fc_details.py
 - lib/dm_jerseybarrier: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/fences.py
+- lib/dm_junglegym: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/playground.py
 - lib/dm_lighttroffer: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/building_props.py
+- lib/dm_palletrack: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/detail_fixtures.py
+- lib/dm_pipecluster: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map/blob/main/tools/models/building_props.py
 - lib/dm_pipestraight: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/building_props.py
+- lib/dm_plasmatv: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/debris_goods.py
+- lib/dm_plasticbottle: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/props.py
 - lib/dm_power_box: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/power_box.py
+- lib/dm_rebar: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/fc_details.py
+- lib/dm_roofdish: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/scenery.py
+- lib/dm_rubbleheap: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/debris_goods.py
+- lib/dm_scaffoldbay: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/fork_station.py
+- lib/dm_securitylight: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/props.py
+- lib/dm_slide: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/playground.py
+- lib/dm_speakercluster: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/scenery.py
+- lib/dm_trashcluster: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/clutter.py
+- lib/dm_truss: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/clutter.py
 - lib/dm_utilitypole: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/building_props.py
+- lib/dm_wallshelf: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/debris_goods.py
+- lib/dm_watermelon: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/props.py
+- lib/dm_watertower: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/scenery.py
 - lib/dm_wood_crate_cube: Gamespice map Blender remodel, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/wood_crate.py
-- lib/fxfountain: Modelled for dot-map, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map
+- lib/fxfountain: Modelled for Gamespice map, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map
 - lib/kenney_building-kit_barricade-window-c: Kenney Building Kit, Kenney, CC0-1.0, https://kenney.nl/assets/building-kit
-- lib/kenney_building-kit_column-thin: Kenney Building Kit, Kenney, CC0-1.0, https://kenney.nl/assets/building-kit
 - lib/kenney_building-kit_door-rotate-square-b: Kenney Building Kit, Kenney, CC0-1.0, https://kenney.nl/assets/building-kit
 - lib/kenney_factory-kit_pipe-large-bump: Kenney Factory Kit, Kenney, CC0-1.0, https://kenney.nl/assets/factory-kit
-- lib/kenney_food-kit_soda-bottle: Kenney Food Kit, Kenney, CC0-1.0, https://kenney.nl/assets/food-kit
-- lib/kenney_food-kit_styrofoam-dinner: Kenney Food Kit, Kenney, CC0-1.0, https://kenney.nl/assets/food-kit
-- lib/kenney_furniture-kit_cardboardBoxClosed: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
-- lib/kenney_furniture-kit_televisionModern: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
-- lib/kenney_graveyard-kit_fence-gate: Kenney Graveyard Kit, Kenney, CC0-1.0, https://kenney.nl/assets/graveyard-kit
-- lib/kenney_graveyard-kit_iron-fence-border-curve: Kenney Graveyard Kit, Kenney, CC0-1.0, https://kenney.nl/assets/graveyard-kit
-- lib/kenney_graveyard-kit_iron-fence-border-gate: Kenney Graveyard Kit, Kenney, CC0-1.0, https://kenney.nl/assets/graveyard-kit
-- lib/kenney_graveyard-kit_iron-fence-curve: Kenney Graveyard Kit, Kenney, CC0-1.0, https://kenney.nl/assets/graveyard-kit
 - lib/kenney_mini-arcade_air-hockey: Kenney Mini Arcade, Kenney, CC0-1.0, https://kenney.nl/assets/mini-arcade
-- lib/kenney_mini-arcade_wall-window: Kenney Mini Arcade, Kenney, CC0-1.0, https://kenney.nl/assets/mini-arcade
-- lib/kenney_nature-kit_cliff_diagonal_rock: Kenney Nature Kit, Kenney, CC0-1.0, https://kenney.nl/assets/nature-kit
-- lib/kenney_nature-kit_crop_melon: Kenney Nature Kit, Kenney, CC0-1.0, https://kenney.nl/assets/nature-kit
-- lib/kenney_nature-kit_fence_gate: Kenney Nature Kit, Kenney, CC0-1.0, https://kenney.nl/assets/nature-kit
 - lib/kenney_pirate-kit_castle-gate: Kenney Pirate Kit, Kenney, CC0-1.0, https://kenney.nl/assets/pirate-kit
-- lib/own_box_17x28x34_e8e8e0: TMC generated model, Gamespice (generated for map), CC0-1.0, https://github.com/gamespice-platform/map
 - lib/ph_Barrel_01: Poly Haven, Jorge Camacho, CC0-1.0, https://polyhaven.com/a/Barrel_01
 - lib/ph_CashRegister_01: Poly Haven, Joe Seabuhr, CC0-1.0, https://polyhaven.com/a/CashRegister_01
 - lib/ph_ClassicConsole_01: Poly Haven, Kirill Sannikov, CC0-1.0, https://polyhaven.com/a/ClassicConsole_01
@@ -167,8 +181,12 @@ Every texture of this map is a free replacement; the original map's textures and
 - lib/ph_chinese_tea_table: Poly Haven, Kirill Sannikov, CC0-1.0, https://polyhaven.com/a/chinese_tea_table
 - lib/ph_concrete_road_barrier_02: Poly Haven, Amal Kumar, CC0-1.0, https://polyhaven.com/a/concrete_road_barrier_02
 - lib/ph_covered_car: Poly Haven, MP, CC0-1.0, https://polyhaven.com/a/covered_car
+- lib/ph_fancy_picture_frame_01: Poly Haven, Rob Tuytel, Rico Cilliers, CC0-1.0, https://polyhaven.com/a/fancy_picture_frame_01
 - lib/ph_fern_02: Poly Haven, Rob Tuytel, Rico Cilliers, CC0-1.0, https://polyhaven.com/a/fern_02
 - lib/ph_gallinera_chair: Poly Haven, Ulan Cabanilla, CC0-1.0, https://polyhaven.com/a/gallinera_chair
+- lib/ph_hanging_picture_frame_01: Poly Haven, James Ray Cock, CC0-1.0, https://polyhaven.com/a/hanging_picture_frame_01
+- lib/ph_hanging_picture_frame_02: Poly Haven, James Ray Cock, CC0-1.0, https://polyhaven.com/a/hanging_picture_frame_02
+- lib/ph_hanging_picture_frame_03: Poly Haven, James Ray Cock, CC0-1.0, https://polyhaven.com/a/hanging_picture_frame_03
 - lib/ph_industrial_pastic_container: Poly Haven, Galo Benivegna, CC0-1.0, https://polyhaven.com/a/industrial_pastic_container
 - lib/ph_industrial_wall_lamp: Poly Haven, Kuutti Siitonen, CC0-1.0, https://polyhaven.com/a/industrial_wall_lamp
 - lib/ph_island_tree_01: Poly Haven, Rob Tuytel, Rico Cilliers, CC0-1.0, https://polyhaven.com/a/island_tree_01

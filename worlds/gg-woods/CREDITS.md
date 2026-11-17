@@ -10,10 +10,14 @@ Every texture of this map is a free replacement; the original map's textures and
 
 # Model stand-ins
 
-- lib/kenney_nature-kit_cliff_topDiagonal_rock: Kenney Nature Kit, Kenney, CC0-1.0, https://kenney.nl/assets/nature-kit
+- lib/dm_driftwood2: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/clutter.py
+- lib/dm_rockcluster1: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/industrial.py
+- lib/dm_rockcluster2: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/industrial.py
 - lib/kenney_nature-kit_plant_bushDetailed: Kenney Nature Kit, Kenney, CC0-1.0, https://kenney.nl/assets/nature-kit
 - lib/kenney_survival-kit_fish: Kenney Survival Kit, Kenney, CC0-1.0, https://kenney.nl/assets/survival-kit
 - lib/own_box_25x30x50_202020: TMC generated model, Gamespice (generated for map), CC0-1.0, https://github.com/gamespice-platform/map
+- lib/ph_island_tree_01: Poly Haven, Rob Tuytel, Rico Cilliers, CC0-1.0, https://polyhaven.com/a/island_tree_01
+- lib/ph_jacaranda_tree: Poly Haven, Rob Tuytel, Rico Cilliers, CC0-1.0, https://polyhaven.com/a/jacaranda_tree
 - lib/ph_namaqualand_boulder_04: Poly Haven, Jenelle van Heerden, CC0-1.0, https://polyhaven.com/a/namaqualand_boulder_04
 - lib/ph_potted_plant_02: Poly Haven, Rico Cilliers, CC0-1.0, https://polyhaven.com/a/potted_plant_02
 - lib/ph_stone_fire_pit: Poly Haven, Sebastian Platen, CC0-1.0, https://polyhaven.com/a/stone_fire_pit

@@ -67,13 +67,33 @@
   },
   {
    "kind": "model",
-   "name": "lib/kenney_nature-kit_cliff_topDiagonal_rock",
+   "name": "lib/dm_rockcliff1",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/props.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 9
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_rockcluster2",
+   "author": "TMC (modelled for dot-map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/industrial.py",
+   "source": "dot-map Blender model",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "model",
+   "name": "lib/kenney_nature-kit_rock_tallJ",
    "author": "Kenney",
    "licence": "CC0-1.0",
    "url": "https://kenney.nl/assets/nature-kit",
    "source": "Kenney Nature Kit",
    "attribution": false,
-   "uses": 26
+   "uses": 17
   },
   {
    "kind": "model",

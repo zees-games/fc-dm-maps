@@ -24,6 +24,10 @@ Every texture of this map is a free replacement; the original map's textures and
 - bench: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
 - bookcase: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
 - fence: Kenney Nature Kit, Kenney, CC0-1.0, https://kenney.nl/assets/nature-kit
+- lib/kenney_factory-kit_machine: Kenney Factory Kit, Kenney, CC0-1.0, https://kenney.nl/assets/factory-kit
+- lib/kenney_factory-kit_machine-connection-hole: Kenney Factory Kit, Kenney, CC0-1.0, https://kenney.nl/assets/factory-kit
+- lib/kenney_factory-kit_machine-fortified: Kenney Factory Kit, Kenney, CC0-1.0, https://kenney.nl/assets/factory-kit
+- lib/kenney_factory-kit_machine-window-bar: Kenney Factory Kit, Kenney, CC0-1.0, https://kenney.nl/assets/factory-kit
 - lib/kenney_furniture-kit_stairs: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
 - lib/own_box_120x100x80_707070: TMC generated model, Gamespice (generated for map), CC0-1.0, https://github.com/gamespice-platform/map
 - lib/own_box_45x20x10_307840: TMC generated model, Gamespice (generated for map), CC0-1.0, https://github.com/gamespice-platform/map

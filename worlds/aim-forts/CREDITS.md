@@ -30,9 +30,11 @@ Every texture of this map is a free replacement; the original map's textures and
 
 - factory/door: Kenney Factory Kit, Kenney, CC0-1.0, https://kenney.nl/assets/factory-kit
 - factory/window: Kenney Factory Kit, Kenney, CC0-1.0, https://kenney.nl/assets/factory-kit
+- lib/dm_rockcluster1: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/industrial.py
+- lib/dm_rockcluster2: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/industrial.py
 - lib/dm_wood_crate_cube: Gamespice map Blender remodel, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/wood_crate.py
 - lib/dm_woodcart: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map/blob/main/tools/models/vehicles.py
-- lib/fxfountain: Modelled for dot-map, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map
+- lib/fxfountain: Modelled for Gamespice map, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map
 - lib/kenney_nature-kit_grass_large: Kenney Nature Kit, Kenney, CC0-1.0, https://kenney.nl/assets/nature-kit
 - lib/kenney_nature-kit_rock_tallJ: Kenney Nature Kit, Kenney, CC0-1.0, https://kenney.nl/assets/nature-kit
 - lib/own_cyl_200x120x200_c9b38a: TMC generated model, Gamespice (generated for map), CC0-1.0, https://github.com/gamespice-platform/map

@@ -623,7 +623,17 @@
    "url": "https://kenney.nl/assets/nature-kit",
    "source": "Kenney Nature Kit",
    "attribution": false,
-   "uses": 4
+   "uses": 3
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_antenna",
+   "author": "TMC (modelled for dot-map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/clutter.py",
+   "source": "dot-map Blender model",
+   "attribution": false,
+   "uses": 3
   },
   {
    "kind": "model",
@@ -647,13 +657,53 @@
   },
   {
    "kind": "model",
-   "name": "lib/dm_lighttroffer",
+   "name": "lib/dm_handrail",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/handrail.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 2
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_ibeamstack",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/fc_details.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_milcrate",
    "author": "Gamespice (modelled for map)",
    "licence": "CC0-1.0",
    "url": "https://github.com/gamespice-platform/map/blob/main/tools/models/building_props.py",
    "source": "Gamespice map Blender model",
    "attribution": false,
-   "uses": 20
+   "uses": 14
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_milkcarton",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/clutter.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 3
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_rooftophvac",
+   "author": "TMC (modelled for dot-map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/harbour_rooftop.py",
+   "source": "dot-map Blender model",
+   "attribution": false,
+   "uses": 5
   },
   {
    "kind": "model",
@@ -664,6 +714,26 @@
    "source": "Gamespice map Blender model",
    "attribution": false,
    "uses": 1
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_rubbleheap",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/debris_goods.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 7
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_slide",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/playground.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 2
   },
   {
    "kind": "model",
@@ -681,29 +751,9 @@
    "author": "Gamespice (modelled for map)",
    "licence": "CC0-1.0",
    "url": "https://github.com/gamespice-platform/map",
-   "source": "Modelled for dot-map",
-   "attribution": false,
-   "uses": 1
-  },
-  {
-   "kind": "model",
-   "name": "lib/kenney_food-kit_carton",
-   "author": "Kenney",
-   "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/food-kit",
-   "source": "Kenney Food Kit",
+   "source": "Modelled for Gamespice map",
    "attribution": false,
    "uses": 3
-  },
-  {
-   "kind": "model",
-   "name": "lib/kenney_graveyard-kit_fence-gate",
-   "author": "Kenney",
-   "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/graveyard-kit",
-   "source": "Kenney Graveyard Kit",
-   "attribution": false,
-   "uses": 2
   },
   {
    "kind": "model",
@@ -717,13 +767,13 @@
   },
   {
    "kind": "model",
-   "name": "lib/kenney_retro-urban-kit_detail-dumpster-closed",
+   "name": "lib/kenney_retro-urban-kit_window-small-type-b",
    "author": "Kenney",
    "licence": "CC0-1.0",
    "url": "https://kenney.nl/assets/retro-urban-kit",
    "source": "Kenney Retro Urban Kit",
    "attribution": false,
-   "uses": 14
+   "uses": 13
   },
   {
    "kind": "model",
@@ -974,16 +1024,6 @@
    "source": "Sketchfab",
    "attribution": true,
    "uses": 1
-  },
-  {
-   "kind": "model",
-   "name": "lib/sf_small_self_stand_fence_okp_9c78bf",
-   "author": "Aleksey Kozhemyakin",
-   "licence": "CC-BY-4.0",
-   "url": "https://sketchfab.com/3d-models/none-9c78bf2e37bb44a98a25db07ce749487",
-   "source": "Sketchfab",
-   "attribution": true,
-   "uses": 2
   },
   {
    "kind": "model",

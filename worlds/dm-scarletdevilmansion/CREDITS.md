@@ -90,6 +90,8 @@ Every texture of this map is a free replacement; the original map's textures and
 - crate: Kenney Survival Kit, Kenney, CC0-1.0, https://kenney.nl/assets/survival-kit
 - factory/door: Kenney Factory Kit, Kenney, CC0-1.0, https://kenney.nl/assets/factory-kit
 - lamp: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
+- lib/dm_bookpile: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/fc_details.py
+- lib/dm_grandfatherclock: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/fc_details.py
 - lib/kenney_graveyard-kit_candle-multiple: Kenney Graveyard Kit, Kenney, CC0-1.0, https://kenney.nl/assets/graveyard-kit
 - lib/own_box_100x5x100_8a6a40: TMC generated model, Gamespice (generated for map), CC0-1.0, https://github.com/gamespice-platform/map
 - lib/own_box_150x100x170_151515: TMC generated model, Gamespice (generated for map), CC0-1.0, https://github.com/gamespice-platform/map
@@ -102,10 +104,15 @@ Every texture of this map is a free replacement; the original map's textures and
 - lib/own_cyl_10x10x60_4060c0: TMC generated model, Gamespice (generated for map), CC0-1.0, https://github.com/gamespice-platform/map
 - lib/own_cyl_20x100x20_604030: TMC generated model, Gamespice (generated for map), CC0-1.0, https://github.com/gamespice-platform/map
 - lib/own_cyl_30x50x30_e8e0b0: TMC generated model, Gamespice (generated for map), CC0-1.0, https://github.com/gamespice-platform/map
+- lib/ph_Chandelier_01: Poly Haven, Kirill Sannikov, CC0-1.0, https://polyhaven.com/a/Chandelier_01
 - lib/ph_cardboard_box_01: Poly Haven, Rahul Chaudhary, CC0-1.0, https://polyhaven.com/a/cardboard_box_01
+- lib/ph_gothic_statue: Poly Haven, Benny Weimer, CC0-1.0, https://polyhaven.com/a/gothic_statue
 - lib/ph_namaqualand_boulder_04: Poly Haven, Jenelle van Heerden, CC0-1.0, https://polyhaven.com/a/namaqualand_boulder_04
 - lib/ph_namaqualand_cliff_01: Poly Haven, Jenelle van Heerden, Rico Cilliers, CC0-1.0, https://polyhaven.com/a/namaqualand_cliff_01
 - lib/ph_rock_face_01: Poly Haven, Dario Barresi, CC0-1.0, https://polyhaven.com/a/rock_face_01
+- lib/ph_television_02: Poly Haven, Benny Weimer, CC0-1.0, https://polyhaven.com/a/television_02
+- lib/ph_wooden_handle_saber: Poly Haven, Ulan Cabanilla, CC0-1.0, https://polyhaven.com/a/wooden_handle_saber
+- lib/ph_wooden_lantern_01: Poly Haven, James Ray Cock, CC0-1.0, https://polyhaven.com/a/wooden_lantern_01
 - lib/sf_coconut_tree_d14194: Sketchfab, sujirour, CC-BY-4.0, https://sketchfab.com/3d-models/none-d141941578044b0f861ca83b36d4c411
 - lib/sf_door_wood_afed97: Sketchfab, DiggenDigga, CC-BY-4.0, https://sketchfab.com/3d-models/none-afed9756ba974d1395a336124ff326fd
 - lib/sf_leaf_tree_ps1_low_poly_d799c0: Sketchfab, Wersaus33, CC-BY-4.0, https://sketchfab.com/3d-models/none-d799c08100974e1ba352fcd646cb0694
