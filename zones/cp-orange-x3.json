@@ -7,7 +7,7 @@
   "archive": "cp_orange_x3.bsp",
   "recorded": "2026-11-07"
  },
- "notes": "Control point map for game-arena: team spawns become red/blue spawns, control points and resupply are kept as markers, flag_spawns place a capture-the-flag layout at each team's last control point. Textures and models are free replacements; published as a credited community map with a removal offer.",
+ "notes": "Control point map for game-fatal-contact: team spawns become red/blue spawns, control points and resupply are kept as markers, flag_spawns place a capture-the-flag layout at each team's last control point. Textures and models are free replacements; published as a credited community map with a removal offer.",
  "kind": "arena",
  "kind_why": "A control point map played as deathmatch, team deathmatch and capture the flag: built to fight on rather than to time.",
  "movement": "walk",
