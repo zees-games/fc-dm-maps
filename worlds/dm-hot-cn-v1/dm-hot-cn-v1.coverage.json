@@ -140,9 +140,7 @@
   "links_unresolved": [],
   "inputs_unimplemented": [],
   "surfaces_opaque": [],
-  "gameplay_lost": [
-   "volume_key_unread:trigger_hurt.damagecap=10000"
-  ]
+  "gameplay_lost": []
  },
  "counts": {
   "textures_unmapped": 0,
@@ -154,15 +152,11 @@
   "links_unresolved": 0,
   "inputs_unimplemented": 0,
   "surfaces_opaque": 0,
-  "gameplay_lost": 1
+  "gameplay_lost": 0
  },
  "gameplay": {
-  "findings": {
-   "volume_key_unread": 1
-  },
-  "severity": {
-   "volume_key_unread": "unsupported"
-  },
+  "findings": {},
+  "severity": {},
   "classes": {
    "approximated": 1,
    "ignored": 1,

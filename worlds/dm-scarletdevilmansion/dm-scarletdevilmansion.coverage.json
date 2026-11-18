@@ -139,8 +139,6 @@
    "class_unsupported:func_buyzone (ignored)",
    "class_unsupported:info_target (approximated)",
    "class_unsupported:point_viewcontrol (ignored)",
-   "volume_key_unread:trigger_hurt.damagecap=64",
-   "volume_key_unread:trigger_hurt.damagemodel=1",
    "volume_parented:trigger_hurt#434 -> vuvu2",
    "volume_parented:trigger_hurt#435 -> vuvu1",
    "volume_parented:trigger_hurt#436 -> vuvu3",
@@ -203,17 +201,15 @@
   "links_unresolved": 0,
   "inputs_unimplemented": 0,
   "surfaces_opaque": 0,
-  "gameplay_lost": 55
+  "gameplay_lost": 53
  },
  "gameplay": {
   "findings": {
    "class_unsupported": 3,
-   "volume_key_unread": 2,
    "volume_parented": 50
   },
   "severity": {
    "class_unsupported": "unsupported",
-   "volume_key_unread": "unsupported",
    "volume_parented": "unsupported"
   },
   "classes": {
