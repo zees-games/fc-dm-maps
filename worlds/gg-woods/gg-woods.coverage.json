@@ -58,7 +58,12 @@
   "keys_unmapped": [],
   "links_unresolved": [],
   "inputs_unimplemented": [],
-  "surfaces_opaque": []
+  "surfaces_opaque": [],
+  "gameplay_lost": [
+   "class_unsupported:env_microphone (approximated)",
+   "class_unsupported:path_track (approximated)",
+   "class_unsupported:point_viewcontrol (ignored)"
+  ]
  },
  "counts": {
   "textures_unmapped": 0,
@@ -69,6 +74,20 @@
   "keys_unmapped": 0,
   "links_unresolved": 0,
   "inputs_unimplemented": 0,
-  "surfaces_opaque": 0
+  "surfaces_opaque": 0,
+  "gameplay_lost": 3
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 3
+  },
+  "severity": {
+   "class_unsupported": "unsupported"
+  },
+  "classes": {
+   "approximated": 5,
+   "ignored": 5,
+   "implemented": 17
+  }
  }
 }

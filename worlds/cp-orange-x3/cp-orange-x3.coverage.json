@@ -64,6 +64,16 @@
    "team_control_point_master.OnWonByTeam2->counter_blu_win",
    "trigger_capture_area.OnCapTeam1->prop_cap_3",
    "trigger_capture_area.OnCapTeam2->prop_cap_3"
+  ],
+  "gameplay_lost": [
+   "class_unsupported:filter_activator_tfteam (ignored)",
+   "class_unsupported:func_regenerate (approximated)",
+   "class_unsupported:team_control_point_master (approximated)",
+   "class_unsupported:trigger_capture_area (approximated)",
+   "volume_unrecorded:func_regenerate#122 ",
+   "volume_unrecorded:func_regenerate#124 ",
+   "volume_unrecorded:func_regenerate#85 ",
+   "volume_unrecorded:func_regenerate#87 "
   ]
  },
  "counts": {
@@ -76,6 +86,24 @@
   "links_unresolved": 0,
   "inputs_unimplemented": 0,
   "surfaces_opaque": 0,
-  "links_dangling": 4
+  "links_dangling": 4,
+  "gameplay_lost": 8
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 4,
+   "target_dangling": 4,
+   "volume_unrecorded": 4
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "target_dangling": "source",
+   "volume_unrecorded": "lost"
+  },
+  "classes": {
+   "approximated": 5,
+   "ignored": 1,
+   "implemented": 16
+  }
  }
 }

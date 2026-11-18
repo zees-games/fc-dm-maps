@@ -87,6 +87,10 @@
   "surfaces_opaque": [],
   "links_dangling": [
    "prop_physics.OnBreak->crate_10_grenade_maker"
+  ],
+  "gameplay_lost": [
+   "class_unsupported:func_buyzone (ignored)",
+   "class_unsupported:phys_ballsocket (approximated)"
   ]
  },
  "counts": {
@@ -99,6 +103,22 @@
   "links_unresolved": 0,
   "inputs_unimplemented": 0,
   "surfaces_opaque": 0,
-  "links_dangling": 1
+  "links_dangling": 1,
+  "gameplay_lost": 2
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 2,
+   "target_dangling": 1
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "target_dangling": "source"
+  },
+  "classes": {
+   "approximated": 2,
+   "ignored": 1,
+   "implemented": 23
+  }
  }
 }
