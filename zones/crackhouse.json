@@ -2,7 +2,7 @@
  "id": "crackhouse",
  "author": "unknown",
  "kind": "arena",
- "kind_why": "A deathmatch map: built to fight on rather than to time. 'arena' keeps it out of g2gfast's rotation and marks it for game-fatal-contact's deathmatch.",
+ "kind_why": "A deathmatch map: built to fight on rather than to time. 'arena' keeps it out of airdrift's rotation and marks it for game-fatal-contact's deathmatch.",
  "movement": "walk",
  "attribution": {
   "author": "unknown (no readme in the archive, none in the bsp; the 2005 original is a community map, not confirmed)",
