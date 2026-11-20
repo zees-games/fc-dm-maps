@@ -67,6 +67,6 @@ The maps are GameBanana uploads under the site's default licence, CC BY-NC-ND 4.
 | `gg-simpsons-x` | BasicAir | https://gamebanana.com/mods/136613 | CC BY-NC-ND 4.0 |
 | `gg-woods` | X-tr3m3r | https://gamebanana.com/mods/137426 | CC BY-NC-ND 4.0 |
 | `welcometomexicov6` | zaki90 | https://gamebanana.com/mods/117984 | CC BY-NC-ND 4.0 |
-| `cp-orange-x3` | unknown (Orange_X lineage, original by WhiteWolf_X) | https://wiki.teamfortress.com/wiki/Orange_X | CC BY-NC-ND 4.0 |
+| `cp-orange-x3` | White wolf, GGODD2, renguard, mwhahaha (Orange_X variant; wiki: https://wiki.teamfortress.com/wiki/Orange_X) | https://gamebanana.com/mods/69885 | CC BY-NC-ND 4.0 |
 
 If you made one of these maps and want it removed, open an issue at https://github.com/zees-games/fc-dm-maps/issues.
