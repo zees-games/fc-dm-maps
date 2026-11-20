@@ -44,6 +44,10 @@ Capture the flag needs room: each base needs its own spawns and a flag home, and
 
 `cp-orange-x3` is a Team Fortress 2 control point map. Every Valve texture and model is replaced by a free one (CC0), and none of the original art ships. Its team spawns become `red` and `blue` spawns, and `zones/cp-orange-x3.json` places a flag marker at each side's last control point.
 
+## Quality and ongoing improvement
+
+The maps, models, textures and sounds in this pack are being improved over time, and some of them are low quality today. Improvement is driven by the Nightly queue, a work queue where agents pick up items, and by a visual judge loop that views rendered frames and files defects until each asset passes repeated clean reviews. Known defects are filed there and fixed in later releases, and the screenshots here are regenerated as the assets improve.
+
 ## Credits
 
 The maps are GameBanana uploads under the site's default licence, CC BY-NC-ND 4.0, except where the table says otherwise. They are published under the credited-community-map exception in `licence.json`, with this credit, the source link and the removal offer.
